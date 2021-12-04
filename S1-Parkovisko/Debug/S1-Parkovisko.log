@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\akraj\source\repos\S1-Parkovisko\S1-Parkovisko\Main.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  S1-Parkovisko.vcxproj -> C:\Users\akraj\source\repos\S1-Parkovisko\Debug\S1-Parkovisko.exe
